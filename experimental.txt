@@ -1,0 +1,3 @@
+anyNameFile.txt
+log.log
+.gitignore
